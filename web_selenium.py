@@ -166,13 +166,13 @@ login()
 
 list_of_ingredients = open('MP-DB.csv','r')
 #for line in list_of_ingredients:
-min = 200
-max = 500
+min = 273
+max = 400
 try:
     lastIng = ''
     for i in range(max):
+        ing = list_of_ingredients.readline()[:-1]
         if i >= min:
-            ing = list_of_ingredients.readline()[:-1]
             if ing != lastIng:
                 get_suppliers_from_inci(ing)
             print ('Ingredient search: %2.2f%%  done' %(100.0*(i+1-min)/(max-min)) )

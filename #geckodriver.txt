@@ -1,0 +1,2 @@
+#geckodriver: add to PATH
+export PATH=$PATH:/home/francis/Documents/cosmetic_web_scraping
