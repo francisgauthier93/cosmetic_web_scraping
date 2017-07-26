@@ -1,10 +1,12 @@
-import os, sys, re, time
+import os, sys, re, time, shutil
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from googletrans import Translator
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 translator = Translator()
 
@@ -78,6 +80,13 @@ def submit_search_of(name, translated = False):
     except:
         return ('Error','')
 
+def extractSupLink(tdTag):
+    ref = tdTag.find_element_by_tag_name('a').get_attribute('href')
+    ref = ref[24:-1].split(',')
+    ref[0] = re.sub('\'','',ref[0], flags=re.IGNORECASE)
+    ref[1] = re.sub('\'','',ref[1], flags=re.IGNORECASE)
+    return (ref[0],re.sub('%20', '+' ,ref[1], flags=re.IGNORECASE))
+
 def get_suppliers_from_inci(mpc, ingredient):
     #ingredient is original name from PME, inci_name is the one that matched the search
     (inci_name,Sups) = submit_search_of(ingredient)
@@ -91,65 +100,72 @@ def get_suppliers_from_inci(mpc, ingredient):
             if len(oneResult) <= 1:
                 matchedName = False
             elif oneResult[0].text.lower() == inci_name.lower()+' (inci)' or oneResult[0].text.lower() == inci_name.lower()+' (tn)' or (oneResult[0].text == ' ' and matchedName == True):
-                print(inci_name+', supplier found as a->text')
+                #print(inci_name+', supplier found as a->text')
                 matchedName = True
                 add_supplier_to_list(mpc, ingredient, inci_name,oneResult[1].find_element_by_tag_name('a').text)
+                (supNo, ingred) = extractSupLink(oneResult[1])
+                #print (supNo,ingred)
                 #retrieve_supplier(oneResult)
                 #add inci_name as first product of supplier in urls
                 try:
-                    z = suppliers_infos_url[oneResult[1].find_element_by_tag_name('a').text]
-                    pass
+                    z = suppliers_infos_url[supNo]
                 except KeyError as k:
-                    suppliers_infos_url[oneResult[1].find_element_by_tag_name('a').text] = inci_name
+                    suppliers_infos_url[supNo] = ingred
 
             else:
                 matchedName = False
 
-supout.write('Nom du fabricant,Adresse,Courriel,Site Web,No Telephone,No Fax,Autres informations\n')
-def retrieve_supplier(oneR):
-    #print(suppliers_infos_url)
-    #print suppliers_infos_url.keys()
-    print 'retrieving'
-    sup_ref = oneR[1].find_element_by_tag_name('a')
-    sup_name = sup_ref.text
-    #check if supplier info are known
-    if sup_name in suppliers_infos_url:
-        pass
-    else:
-        sup_ref.click()
-        get_supplier_info(sup_name)
-        suppliers_infos_url.add(sup_name)
-        driver.back()
-        print 'we"re back'
-        #driver.execute_script("window.history.go(-1)")
-        #get_supplier_info(suppliers_infos_url.pop())
+supout.write('Nom du fournisseur,Adresse,Courriel,Site Web,No Telephone,No Fax,Autres informations\n')
+def retrieve_suppliers():
+    total = len(suppliers_infos_url)
+    i = 0
+    for no in suppliers_infos_url.keys():
+        url = 'http://buyers.personalcarecouncil.org/jsp/SupplierDtlPage.jsp?pageName=BGSearchResultPage&SupplierID='+no+'&Ingredient='+suppliers_infos_url[no]
+        #print url
+        i+=1
+        get_supplier_info(url)
+        print('Suppliers search: %2.2f%%  done' %(100.0*(i)/(total)) ) 
+        
 def add_supplier_to_list(mpNo, ingredName, inciName, Supplier):
     #print(inciName+','+Supplier+'\n')
     Supplier = re.sub(',', ' ', Supplier, flags=re.IGNORECASE)
     output.write(mpNo+','+ingredName+','+inciName+','+Supplier+'\n')
 
-def get_supplier_info(fab_name,triedBefore=0):
-    print 'getting info for: '+fab_name
+def get_supplier_info(url,triedBefore=0):
+    
+    driver.get(url)
     wait = WebDriverWait(driver, 10)
     form = wait.until(EC.visibility_of_element_located((By.ID, "SupplierDetailForm")))    
     suppl_adress_list = form.find_elements_by_tag_name('table')[0].find_element_by_tag_name('tbody').find_elements_by_tag_name('tr')
     suppl_contact_list = form.find_elements_by_tag_name('table')[1].find_element_by_tag_name('tbody').find_elements_by_tag_name('tr')     
     if suppl_adress_list[1].text != ' ':
-        suplog.write('Error with supplier: '+fab_name+', no whitespace in second')
+        suplog.write('Error with supplier: '+url+', no whitespace in second')
+    fab_name = re.sub(',',' ',suppl_adress_list[2].text , flags= re.IGNORECASE)
     i = 3
     informations = {'adress':'','tel':'','fax':'','courriel':'','web':'','other':''}
     while i<len(suppl_adress_list) and suppl_adress_list[i].text != ' ':
         if informations['adress'] != '':
-            informations['adress'] = informations['adress']+'; '+suppl_adress_list[i].text
+            informations['adress'] = informations['adress']+'; '+re.sub(',',' ',suppl_adress_list[i].text,flags=re.IGNORECASE)
         else:
-            informations['adress'] = suppl_adress_list[i].text
+            informations['adress'] = re.sub(',',' ',suppl_adress_list[i].text,flags=re.IGNORECASE)
         i+=1    
     #while i < len(suppl_contact_list):
         #if()
         #i+=1
-    informations = fab_name+','+informations['adress']
-    print informations
-        #informations = fab_name+','+informations['adress']+','+informations['courriel']+','+informations['web']+','+informations['tel']+','+informations['fax']+','+informations['other']+'\n'
+    #informations = fab_name+','+informations['adress']
+    for i in range(len(suppl_contact_list)):
+        datas = suppl_contact_list[i].find_elements_by_tag_name('td')
+        if datas[0].text == 'Phone :':
+            informations['tel'] = datas[2].text
+        elif datas[0].text == 'Fax :':
+            informations['fax'] = datas[2].text
+        elif datas[0].text == 'Website :':
+            informations['web'] = datas[2].text
+        else:
+            informations['other'] = informations['other']+'; '+suppl_contact_list[i].text
+
+    informations = fab_name+','+informations['adress']+','+informations['courriel']+','+informations['web']+','+informations['tel']+','+informations['fax']+','+informations['other']+'\n'
+
     supout.write(informations)
 
 def parseInfos(s):
@@ -189,6 +205,7 @@ def parseInfos(s):
     infos['adress'] = re.sub(',', ' ', infos['adress'], flags=re.IGNORECASE)
     return infos
 
+#################################################
 print 'Initialization complete'
 
 driver = webdriver.Firefox()
@@ -201,11 +218,16 @@ list_of_ingredients = open('MP-DB.csv','r')
  
 #for line in list_of_ingredients:
 min = 0
-max = 10
+max = 900
+backUpCycle = 50
 try:
+    lastBackUp = 0
     lastIng = ''
     for i in range(max):
-        nextLine = list_of_ingredients.readline()[:-1].split(',')
+        try:
+            nextLine = list_of_ingredients.readline()[:-1].split(',')
+        except:
+            break
         mpcode = nextLine[0]
         ing = nextLine[1]
         if i >= min:
@@ -213,32 +235,35 @@ try:
                 get_suppliers_from_inci(mpcode, ing)
             print ('Ingredient search: %2.2f%%  done' %(100.0*(i+1-min)/(max-min)) )
             lastIng = ing
+        if (i+1) % backUpCycle == 0:
+            old_name = 'suppliersPCC.csv'
+            base, extension = os.path.splitext('suppliersPCC.csv')
+            new_name = os.path.join('Completed', base +'_'+str(lastBackUp+1)+'_'+str(i+1)+ extension)
+            lastBackUp = i+1
+            shutil.copy(old_name, new_name)
+            print "Copied", old_name, "as", new_name
+            #clear output
+            #output.close()
+            output = open('suppliersPCC.csv','w')
+            supplierBackUp = open('supBackUp.txt','w')
+            supplierBackUp.write(str(suppliers_infos_url)) 
+            print 'back up made'
+
         #print ing
-    print suppliers_infos_url
+    #print suppliers_infos_url
     print len(suppliers_infos_url)
 except Exception as e:
     output.close()
     driver.close()
     print e
-# names = ['Citric Acid','Acide Stearique','Malic Acid']
-# for j in range(len(names)):
-#     get_suppliers_from_inci(names[j])
-#     print 'Ingredient search: '+str(100.0*(j+1)/len(names))+'%  done'
+
 
 print 'Ingredient search done'
-#retrieve_suppliers()
+retrieve_suppliers()
 s = open('suppliers_last_ing.csv','w')
 for key in suppliers_infos_url.keys():
     s.write(key+','+re.sub(',', ' ',suppliers_infos_url[key], flags=re.IGNORECASE)+'\n')
 print 'Manufacturers infos search done'
 
-#get_suppliers_from_inci('Citric Acid')
-#get_suppliers_from_inci('Acide stearique')
-
-
 output.close()
 driver.close()
-
-#     WebDriverWait wait = new WebDriverWait(driver, 10);
-# // wait for the new li to appear
-# WebElement li = wait.until(ExpectedConditions.elementToBeClickable(By.id("coupon_5")));

@@ -5284,3 +5284,818 @@ JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, li
 JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
 JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
 JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+1501023097553	geckodriver	INFO	geckodriver 0.18.0
+1501023097557	geckodriver	INFO	Listening on 127.0.0.1:59902
+1501023098671	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:52529): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:52529): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:52529): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:52529): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501023099316	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501023099321	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501023099353	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501023099355	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501023099395	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501023099397	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501023099746	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501023099747	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501023099748	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501023099757	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501023099758	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501023099760	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501023101683	Marionette	INFO	Listening on port 59662
+1501023101817	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+1501074504276	geckodriver	INFO	geckodriver 0.18.0
+1501074504444	geckodriver	INFO	Listening on 127.0.0.1:39686
+1501074505858	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:53242): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53242): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:53242): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53242): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501074510705	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501074510707	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501074510795	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501074510797	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501074510966	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501074510968	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501074512322	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501074512324	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501074512326	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501074512356	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501074512371	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501074512374	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501074526694	Marionette	INFO	Listening on port 42043
+1501074529669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+1501074569804	geckodriver	INFO	geckodriver 0.18.0
+1501074569808	geckodriver	INFO	Listening on 127.0.0.1:45130
+1501074569955	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:53330): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53330): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:53330): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53330): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501074572348	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501074572351	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501074572371	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501074572372	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501074572397	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501074572398	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501074572722	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501074572723	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501074572724	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501074572732	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501074572733	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501074572734	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501074574560	Marionette	INFO	Listening on port 46100
+1501074574687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+1501074733631	geckodriver	INFO	geckodriver 0.18.0
+1501074733681	geckodriver	INFO	Listening on 127.0.0.1:55073
+1501074734763	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:53409): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53409): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:53409): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53409): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501074735441	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501074735444	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501074735486	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501074735487	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501074735510	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501074735512	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501074735990	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501074735991	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501074735992	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501074735999	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501074736000	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501074736001	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501074737853	Marionette	INFO	Listening on port 53827
+1501074737932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+1501074961289	geckodriver	INFO	geckodriver 0.18.0
+1501074961294	geckodriver	INFO	Listening on 127.0.0.1:50761
+1501074962412	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:53489): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53489): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:53489): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53489): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501074963101	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501074963103	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501074963120	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501074963121	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501074963144	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501074963145	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501074963429	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501074963431	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501074963432	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501074963439	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501074963440	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501074963441	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501074965608	Marionette	INFO	Listening on port 59089
+1501074965841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+1501075414047	geckodriver	INFO	geckodriver 0.18.0
+1501075414051	geckodriver	INFO	Listening on 127.0.0.1:43837
+1501075415436	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:53598): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53598): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:53598): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53598): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501075416226	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501075416228	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501075416259	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501075416261	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501075416286	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501075416287	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501075416545	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501075416546	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501075416547	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501075416554	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501075416555	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501075416556	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501075418695	Marionette	INFO	Listening on port 50478
+1501075420320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+1501075651021	geckodriver	INFO	geckodriver 0.18.0
+1501075651025	geckodriver	INFO	Listening on 127.0.0.1:38075
+1501075652163	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:53715): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53715): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:53715): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53715): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501075653129	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501075653132	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501075653149	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501075653150	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501075653174	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501075653175	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501075653549	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501075653550	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501075653551	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501075653561	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501075653563	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501075653564	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501075655445	Marionette	INFO	Listening on port 52498
+1501075655549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+1501077194471	geckodriver	INFO	geckodriver 0.18.0
+1501077194482	geckodriver	INFO	Listening on 127.0.0.1:52661
+1501077195592	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:53837): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53837): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:53837): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53837): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501077196236	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501077196239	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501077196256	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501077196257	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501077196279	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501077196280	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501077196559	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501077196561	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501077196561	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501077196570	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501077196571	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501077196572	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501077198542	Marionette	INFO	Listening on port 56808
+1501077198640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+1501077391656	geckodriver	INFO	geckodriver 0.18.0
+1501077391663	geckodriver	INFO	Listening on 127.0.0.1:48660
+1501077392813	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:53935): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53935): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:53935): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53935): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501077397156	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501077397158	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501077397181	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501077397182	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501077397210	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501077397212	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501077400733	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501077400736	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501077400737	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501077400882	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501077400886	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501077400889	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501077417490	Marionette	INFO	Listening on port 57045
+1501077418459	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501077707512	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501077707514	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501077707514	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501077826722	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501077826725	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501077826727	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501077947639	Marionette	INFO	Ceased listening
+
+(firefox:53837): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53837): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:53837): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53837): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:53837): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53837): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:53837): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53837): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:53837): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:53837): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501078288452	geckodriver	INFO	geckodriver 0.18.0
+1501078288472	geckodriver	INFO	Listening on 127.0.0.1:38898
+1501078289573	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:54101): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:54101): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:54101): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:54101): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501078292997	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501078293000	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501078293046	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501078293047	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501078293114	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501078293115	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501078293601	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501078293602	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501078293603	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501078293610	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501078293611	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501078293612	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501078296227	Marionette	INFO	Listening on port 59440
+1501078296486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+1501078534376	geckodriver	INFO	geckodriver 0.18.0
+1501078534390	geckodriver	INFO	Listening on 127.0.0.1:60334
+1501078535404	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:54194): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:54194): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:54194): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:54194): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501078536026	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501078536028	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501078536047	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501078536049	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501078536074	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501078536075	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501078536413	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501078536414	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501078536414	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501078536422	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501078536423	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501078536425	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501078538217	Marionette	INFO	Listening on port 49847
+1501078538294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+1501078809081	geckodriver	INFO	geckodriver 0.18.0
+1501078809085	geckodriver	INFO	Listening on 127.0.0.1:47769
+1501078810091	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:54284): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:54284): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:54284): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:54284): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501078811383	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501078811385	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501078811402	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501078811403	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501078811425	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501078811426	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501078811703	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501078811705	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501078811706	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501078811713	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501078811714	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501078811715	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501078813406	Marionette	INFO	Listening on port 33287
+1501078813505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+1501078893540	geckodriver	INFO	geckodriver 0.18.0
+1501078893555	geckodriver	INFO	Listening on 127.0.0.1:50842
+1501078894559	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:54367): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:54367): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:54367): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:54367): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501078895495	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501078895498	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501078895516	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501078895518	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501078895541	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501078895543	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501078895839	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501078895840	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501078895841	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501078895848	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501078895849	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501078895850	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501078897523	Marionette	INFO	Listening on port 42534
+1501078897645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+1501079206051	geckodriver	INFO	geckodriver 0.18.0
+1501079206056	geckodriver	INFO	Listening on 127.0.0.1:59275
+1501079206099	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:54482): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:54482): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:54482): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:54482): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501079207540	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501079207543	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501079207562	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501079207563	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501079207587	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501079207588	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501079208049	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501079208052	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501079208054	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501079208064	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501079208065	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501079208066	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501079217241	Marionette	INFO	Listening on port 38376
+1501079217392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501079406611	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501079406613	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501079406614	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501079525933	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501079525935	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501079525937	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501079759687	geckodriver	INFO	geckodriver 0.18.0
+1501079759701	geckodriver	INFO	Listening on 127.0.0.1:47333
+1501079759779	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:54616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:54616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:54616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:54616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501079761962	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501079761965	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501079762130	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501079762131	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501079762303	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501079762304	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501079762646	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501079762647	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501079762648	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501079762655	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501079762656	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501079762657	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501079771300	Marionette	INFO	Listening on port 55660
+1501079771563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+1501080497024	geckodriver	INFO	geckodriver 0.18.0
+1501080497053	geckodriver	INFO	Listening on 127.0.0.1:52157
+1501080498100	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:54775): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:54775): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:54775): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:54775): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501080503436	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501080503439	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501080503465	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501080503467	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501080503553	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501080503554	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501080504476	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501080504478	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501080504480	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501080504497	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501080504499	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501080504501	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501080507276	Marionette	INFO	Listening on port 47414
+1501080507440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+1501081672862	geckodriver	INFO	geckodriver 0.18.0
+1501081672872	geckodriver	INFO	Listening on 127.0.0.1:53241
+1501081672967	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:54949): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:54949): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:54949): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:54949): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501081675838	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501081675846	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501081675929	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501081675930	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501081676078	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501081676080	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501081676578	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501081676579	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501081676580	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501081676587	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501081676589	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501081676590	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501081679526	Marionette	INFO	Listening on port 50540
+1501081679650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+1501082561661	geckodriver	INFO	geckodriver 0.18.0
+1501082561751	geckodriver	INFO	Listening on 127.0.0.1:35192
+1501082562857	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:55341): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:55341): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:55341): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:55341): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501082587712	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501082587718	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501082587958	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501082587960	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501082588045	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501082588047	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501082591617	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501082591619	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501082591620	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501082591722	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501082591726	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501082591729	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501082605147	Marionette	INFO	Listening on port 51631
+1501082606115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/CMSAcceptancePage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501083119845	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501083120746	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501083120748	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1501083297956	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1501083300498	addons.xpi	WARN	Add-on langpack-fr@firefox.mozilla.org is not compatible with application version.
+1501083310761	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
+JavaScript error: http://buyers.personalcarecouncil.org/jsp/BGSearchPage.jsp, line 874: TypeError: element is null
